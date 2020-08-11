@@ -4,12 +4,10 @@
   "license_url": null,
   "about_url": null,
   "authors": null,
-  "theme_version": null,
+  "theme_version": "3.5.1",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
-  "assets": {
-    "scratchblocks-v3": "assets/scratchblocks-v3.js"
-  },
+  "assets": {},
   "color_schemes": {
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
